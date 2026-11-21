@@ -1,41 +1,49 @@
 {
   "project_info": {
-    "project_number": "922003247945",
-    "project_id": "kerabites-975e0",
-    "storage_bucket": "kerabites-975e0.firebasestorage.app"
+    "project_number": "212877532460",
+    "project_id": "kerabite-production",
+    "storage_bucket": "kerabite-production.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:922003247945:android:bdfbf2af7a00e75a350098",
+        "mobilesdk_app_id": "1:212877532460:android:12e1331c29c43f3e73e089",
         "android_client_info": {
-          "package_name": "com.test.cobacompose"
+          "package_name": "io.github.kerabiteteam.kerabite"
         }
       },
       "oauth_client": [
         {
-          "client_id": "922003247945-uu5kv3hir6qp4c38idahvqg403h7faru.apps.googleusercontent.com",
+          "client_id": "212877532460-fctn8fuvad4et03l38e2hcbgsgeuqi37.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.test.cobacompose",
-            "certificate_hash": "5a93011a62852e8b730d3bade8a8515adf721e08"
+            "package_name": "io.github.kerabiteteam.kerabite",
+            "certificate_hash": "c8276e9ba67aa6a05a1d9286bf1d71a014589928"
           }
         },
         {
-          "client_id": "922003247945-u5rjhbt1olmn92k4bbm6jijph7rtmd4o.apps.googleusercontent.com",
+          "client_id": "212877532460-hdhiaobtcf9t2f3sepe03mc1vf3n05bo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.kerabiteteam.kerabite",
+            "certificate_hash": "9e8f5d92de85102c9f8a6b9c02a1eed454ddfdc1"
+          }
+        },
+        {
+          "client_id": "212877532460-3g7ogr4uv7qv5di9e6e60udi5ue2ccdi.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAc2H6EFgKRkHYiVeCm6qSB_8vj19exXqg"
+          "current_key": "AIzaSyAL4IxE_fujj-Diy1tW-NSVD-ERcwb6M7U"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "922003247945-u5rjhbt1olmn92k4bbm6jijph7rtmd4o.apps.googleusercontent.com",
+              "client_id": "212877532460-3g7ogr4uv7qv5di9e6e60udi5ue2ccdi.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

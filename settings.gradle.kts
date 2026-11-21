@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "cobacompose"
+rootProject.name = "Kerabite"
 include(":app")
- 
+

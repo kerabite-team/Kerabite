@@ -42,7 +42,7 @@ tasks.matching { it.name == "appDistributionUploadRelease" }.configureEach {
 }
 
 android {
-    namespace = "com.test.cobacompose"
+    namespace = "io.github.kerabiteteam.kerabite"
     compileSdk {
         version = release(37) {
             minorApiLevel = 1
@@ -50,7 +50,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.test.cobacompose"
+        applicationId = "io.github.kerabiteteam.kerabite"
         minSdk = 24
         targetSdk = 36
         versionCode = 4
@@ -120,7 +120,6 @@ dependencies {
     implementation(libs.androidx.navigation.compose)
     implementation(libs.androidx.compose.material.icons.core)
     implementation(platform(libs.firebase.bom))
-    implementation(libs.firebase.analytics)
     implementation(libs.firebase.auth)
     implementation(libs.firebase.firestore)
     implementation(libs.kotlinx.coroutines.play.services)
