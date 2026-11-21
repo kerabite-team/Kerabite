@@ -5,7 +5,7 @@ This checklist separates work that must be done by the school/student account ow
 ## Decisions required before creating the Play Console app
 
 - Obtain written school approval to use the school name, branding, domain namespace, and application ID.
-- Confirm the permanent application ID. Recommended: `id.sch.man2kotamalang.kerabite`.
+- Permanent application ID: `io.github.kerabiteteam.kerabite`.
 - Choose the legal publisher shown in Google Play and the privacy-policy controller.
 - Confirm the official support email, privacy email, postal address, and monitored phone/WhatsApp number.
 - Decide which organization-owned Google account will be the primary owner. Do not leave sole ownership with a graduating student.
@@ -41,8 +41,8 @@ Never send passwords or keystores through GitHub. Use the school's approved pass
 - Replace every bracketed TODO in `docs/privacy-policy.md` and `docs/account-deletion.md`.
 - In GitHub: Settings > Pages > Deploy from branch > `main` and `/docs`.
 - Confirm both public URLs load without authentication:
-  - `https://lintangtedjaratri-sudo.github.io/Kerabite/privacy-policy.html`
-  - `https://lintangtedjaratri-sudo.github.io/Kerabite/account-deletion.html`
+  - `https://kerabite-team.github.io/Kerabite/privacy-policy.html`
+  - `https://kerabite-team.github.io/Kerabite/account-deletion.html`
 - Re-check that the app opens both links.
 
 ## Play Console

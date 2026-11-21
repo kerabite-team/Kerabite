@@ -5,7 +5,7 @@ Firebase App Distribution, project `kerabites-975e0`.
 
 ## Sekali saja
 
-1. Firebase Console → App Distribution → Get started (aktifkan untuk aplikasi Android `com.test.cobacompose`).
+1. Firebase Console → App Distribution → Get started (aktifkan untuk aplikasi Android `io.github.kerabiteteam.kerabite`).
 2. Login Firebase CLI (dipakai plugin Gradle untuk autentikasi): `npm install -g firebase-tools`, lalu `firebase login`.
 3. Isi penguji (salah satu atau keduanya):
    - `testers.txt`: email penguji, dipisah koma atau satu per baris.
