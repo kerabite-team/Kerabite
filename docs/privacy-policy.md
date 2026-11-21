@@ -4,11 +4,9 @@ title: Kebijakan Privasi Kerabite
 
 # Kebijakan Privasi Kerabite
 
-Terakhir diperbarui: 30 Oktober 2026
+Terakhir diperbarui: 21 November 2026
 
-> **TODO sebelum dipublikasikan:** ganti semua teks dalam tanda kurung siku dengan identitas dan kontak resmi yang disetujui MAN 2 Kota Malang.
-
-Kerabite ("aplikasi") merupakan aplikasi edukasi pangan lokal yang dikelola oleh **[NAMA BADAN/PENGELOLA RESMI]** ("kami") untuk mendukung kegiatan pembelajaran siswa sekolah menengah.
+Kerabite ("aplikasi") merupakan aplikasi edukasi pangan lokal yang dikelola oleh **MAN 2 Kota Malang** ("kami") untuk mendukung kegiatan pembelajaran siswa sekolah menengah. Aplikasi ini dibuat oleh tim siswa MAN 2 Kota Malang dengan pendampingan guru sebagai proyek untuk mengikuti kompetisi.
 
 ## Data yang kami proses
 
@@ -18,7 +16,7 @@ Tergantung fitur yang digunakan, aplikasi dapat memproses:
 - progres tantangan, pilihan menu, jurnal, dan pangan lokal yang telah dibuka;
 - foto masakan, dokumen, video, caption, dan tautan media sosial yang dipilih pengguna untuk tugas atau kampanye;
 - preferensi aplikasi seperti bahasa;
-- data teknis, diagnostik, perangkat, dan aktivitas aplikasi yang disediakan Firebase Analytics dan layanan Firebase terkait; serta
+- data teknis, diagnostik, perangkat, dan aktivitas aplikasi yang diproses oleh layanan Firebase terkait; serta
 - permintaan bantuan atau penghapusan data yang dikirim kepada tim Kerabite.
 
 Aplikasi tidak meminta akses lokasi perangkat. Tampilan peta dapat memproses permintaan peta melalui layanan Google Maps dan Places.
@@ -35,7 +33,7 @@ Kami menggunakan data untuk:
 
 ## Penyedia layanan
 
-Aplikasi menggunakan layanan Google, termasuk Firebase Authentication, Cloud Firestore, Firebase Analytics, Google Sign-In, Google Maps, dan Google Places. Penyedia tersebut dapat memproses data sesuai ketentuan dan kebijakan privasi mereka. Kami tidak menjual data pribadi pengguna dan tidak menggunakan aplikasi untuk menayangkan iklan.
+Aplikasi menggunakan layanan Google, termasuk Firebase Authentication, Cloud Firestore, Google Sign-In, Google Maps, dan Google Places. Penyedia tersebut dapat memproses data sesuai ketentuan dan kebijakan privasi mereka. Kami tidak menjual data pribadi pengguna dan tidak menggunakan aplikasi untuk menayangkan iklan.
 
 ## Penyimpanan dan keamanan
 
@@ -61,7 +59,7 @@ Kebijakan ini dapat diperbarui ketika fitur, penyedia layanan, atau kewajiban hu
 
 ## Kontak
 
-Pengelola: **[NAMA BADAN/PENGELOLA RESMI]**  
-Email privasi: **[EMAIL PRIVASI RESMI]**  
-Alamat: **[ALAMAT RESMI PENGELOLA]**
+- Pengelola: **MAN 2 Kota Malang**
+- Email privasi: **kerabitess27@gmail.com**
+- Alamat: **Jl. Bandung No.7, Penanggungan, Kec. Klojen, Kota Malang, Jawa Timur 65113**
 

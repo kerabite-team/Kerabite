@@ -4,9 +4,9 @@ title: Penghapusan Akun dan Data Kerabite
 
 # Penghapusan Akun dan Data Kerabite
 
-Terakhir diperbarui: 30 Oktober 2026
+Terakhir diperbarui: 21 November 2026
 
-> **TODO sebelum dipublikasikan:** ganti alamat email di bawah dengan kontak privasi resmi yang dipantau oleh pengelola Kerabite.
+Kerabite dibuat oleh tim siswa MAN 2 Kota Malang dengan pendampingan guru sebagai proyek untuk mengikuti kompetisi dan dikelola oleh MAN 2 Kota Malang.
 
 ## Menghapus melalui aplikasi
 
@@ -21,9 +21,15 @@ Proses ini menghapus akun Firebase Authentication beserta progres tantangan, jur
 
 ## Meminta penghapusan tanpa aplikasi
 
-Kirim email ke **[EMAIL PRIVASI RESMI]** dengan subjek **Permintaan Penghapusan Akun Kerabite** dan sertakan alamat email yang digunakan untuk mendaftar. Jangan mengirim kata sandi. Tim Kerabite dapat meminta verifikasi tambahan untuk mencegah penghapusan akun oleh pihak yang tidak berwenang.
+Kirim email ke **kerabitess27@gmail.com** dengan subjek **Permintaan Penghapusan Akun Kerabite** dan sertakan alamat email yang digunakan untuk mendaftar. Jangan mengirim kata sandi. Tim Kerabite dapat meminta verifikasi tambahan untuk mencegah penghapusan akun oleh pihak yang tidak berwenang.
 
 Kami akan mengonfirmasi penerimaan dan menyelesaikan permintaan dalam waktu yang wajar sesuai hukum yang berlaku. Data yang wajib dipertahankan untuk kewajiban hukum, keamanan, atau pencegahan penyalahgunaan dapat disimpan hanya selama diperlukan. Salinan cadangan milik penyedia layanan dapat memerlukan waktu terbatas untuk terhapus sesuai siklus pencadangan mereka.
 
 Untuk informasi lebih lanjut, baca [Kebijakan Privasi Kerabite](privacy-policy.md).
+
+## Kontak pengelola
+
+- Pengelola: **MAN 2 Kota Malang**
+- Email: **kerabitess27@gmail.com**
+- Alamat: **Jl. Bandung No.7, Penanggungan, Kec. Klojen, Kota Malang, Jawa Timur 65113**
 
